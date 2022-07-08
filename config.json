@@ -6,8 +6,8 @@
     "command_name": "start",
     
     "give_role": false,
-    "role_name": "ROLE-NAME-HERE",
+    "role_name": "Verified",
 
-    "mass_dm": 0,
+    "mass_dm": 3,
     "message": "MESSAGE-HERE"
 }
