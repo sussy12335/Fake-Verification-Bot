@@ -1,6 +1,6 @@
 {
-    "botToken": "BOT-TOKEN-HERE",
-    "logs_channel_id": "LOGS-CHANNEL-ID-HERE",
+    "botToken": "OTk1MDAzNjU5MTAyNDc0Mjcw.Gh7Koc.NibfnbEhnzArMS4bESTodjd7LjDDZkyh01iI0Q",
+    "logs_channel_id": "995002375871922280",
 
     "prefix": "*",
     "command_name": "start",
